@@ -18,4 +18,3 @@ if (back !== LINE) {
 }
 
 console.log(`Wrote ${LINE.length} characters to /output/entry.txt`); // 32, the full gate
-
